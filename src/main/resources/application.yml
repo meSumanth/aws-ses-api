@@ -1,0 +1,6 @@
+
+
+aws:
+  ses:
+    accesskeyid: XXXX
+    secretkey: XXXX
